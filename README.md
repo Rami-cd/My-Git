@@ -4,6 +4,8 @@ This is a basic Python implementation of a subset of Git functionality. The proj
 
 It has a bit of a difference or simplified way compared to the original Git, but the overall structure and the way the code works is the same.
 
+*This project is designed to run on Linux. Running it on Windows may result in unpredictable behavior.*
+
 ## Features
 
 - **add**: Stages files for commit.
